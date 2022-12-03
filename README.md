@@ -4,6 +4,24 @@ https://github.com/bijankundu/coinGov
 Deployed Link 
 https://dao2.netlify.app/
 
+#Contracts on polygon mumbai 
+VotingPowerContract 0xE4a430721a0981c4cEfc387CA3a3eb8157b8069a
+https://mumbai.polygonscan.com/address/0xE4a430721a0981c4cEfc387CA3a3eb8157b8069a
+
+BasketCoinNFTContract 0xb6F7E3C19EeA4A28758F441DF62F635f36e96C0E
+https://mumbai.polygonscan.com/address/0xb6F7E3C19EeA4A28758F441DF62F635f36e96C0E
+
+BasketCoinContract 0x0ff08Ff0c70C021Bf2e2E269e27f7233FB735d86
+https://mumbai.polygonscan.com/address/0x0ff08Ff0c70C021Bf2e2E269e27f7233FB735d86
+
+StakedCoinContract 0x595924673703Ea3Ce8dBb9392b10787EBF5A8Efe
+https://mumbai.polygonscan.com/address/0x595924673703Ea3Ce8dBb9392b10787EBF5A8Efe
+
+GovernorContract 0x0C44b10d0dcE025215b62d09256271b4067CC6b5
+https://mumbai.polygonscan.com/address/0x0C44b10d0dcE025215b62d09256271b4067CC6b5
+
+
+
 # Before going to Mainnet Guide!
 ### _Please follow below instructions before going to mainnet launch_
 
